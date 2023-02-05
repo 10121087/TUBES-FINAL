@@ -5,3 +5,4 @@ plotly-express
 hydralit-components
 pillow
 streamlit-option-menu
+openpyxl
