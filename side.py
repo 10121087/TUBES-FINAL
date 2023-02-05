@@ -67,7 +67,7 @@ def style():
 
     [data-testid="stAppViewContainer"]{
     background-image: url("https://cdn.discordapp.com/attachments/1038017092806512712/1070778864890028112/white_wallpaper_5_4k_hd_white-1920x1080.jpg");
-    background-size: 100%;
+    background-size: 115%;
     background-position: top left;
     background-repeat: no-repeat;
     background-attachment: local;
