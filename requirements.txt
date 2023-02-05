@@ -1,7 +1,7 @@
 pandas
 folium
 streamlit-folium
-plotly-express
+plotly.express
 hydralit-components
 pillow
 streamlit-option-menu
