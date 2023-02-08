@@ -194,13 +194,6 @@ def popup_html(df, row):
     </center>
     </tr>
 
-    <tr>
-    <center>
-    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;"><center>alamat </span></td>
-    <td style="width: 205px;background-color: """ + right_col_color + """;"><center>""" + lokasi + """</td>
-    </center>
-    </tr>
-
     </tbody>
     </table></center>
 
