@@ -18,7 +18,7 @@ st.set_page_config(page_title=' Kelompok PyTorch',
 
 
 # ADD DATA FRAME
-@st.cache
+@st.cache_data
 def ambil_data():
     df = pd.read_excel(
         io='hotel_jawabarat_tiket_fix.xlsx',
